@@ -1,5 +1,3 @@
 # TODOS
 
-> 简单的练手之作，基于本地 localStorage
-
-## Vue 3 + Vite
+> Vue 3 + Vite 基于本浏览器 localStorage
